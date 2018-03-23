@@ -7,3 +7,5 @@ Washington DC Crime Analysis using MapReduce
 4. MapReduce program were executed on the data
 5. Output of MapReduce Jobs was transferred to HBase for further use in pig
 6. Tableau was used for reporting of business cases
+
+Link for Document: https://drive.google.com/open?id=1YRd7xQr7pLITQ59zXkIKaOeczXshZMY5
